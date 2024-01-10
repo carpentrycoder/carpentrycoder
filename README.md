@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nikhilningdeker723@gmail.com**
 
-- ⚡ Fun fact **I know how to use chat-GPT for coding purposes**
+- ⚡ Fun fact **From running a meme page in 12th grade to transforming into a programmer and avid ChatGPT user, now crafting code with prompts and developing innovative solutions.  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
