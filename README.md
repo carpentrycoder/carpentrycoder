@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sutar</h1>
-<h3 align="center">Second year Artificial Intelligence and Data Science Engineering Studnet</h3>
+<h3 align="center">Second year Artificial Intelligence and Data Science Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704672000&semt=ais">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carpentrycoder&label=Profile%20views&color=0e75b6&style=flat" alt="carpentrycoder" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Java(DSA),HTML,CSS,D-Jango**
 
-- 💬 Ask me about **Java,Javax Swing**
+- 💬 Ask me about **Java,Python**
 
 - 📫 How to reach me **nikhilningdeker723@gmail.com**
 
