@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Travel management System (tourmate1)]
 
-- 🌱 I’m currently learning **Python,Java(DSA),HTML,CSS,D-Jango**
+- 🌱 I’m currently learning **Python,Java(DSA),HTML,CSS,D-Jango,Flask**
 
 - 💬 Ask me about **Java,Python**
 
