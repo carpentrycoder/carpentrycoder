@@ -12,12 +12,7 @@
          width="350">
   </div>
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://i.postimg.cc/3wDTgM7b/Whats-App-Image-2025-04-13-at-2-06-02-PM.jpg" 
-         alt="Coding 2" 
-         style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);" 
-         width="350">
-  </div>
+
 
 </div>
 
