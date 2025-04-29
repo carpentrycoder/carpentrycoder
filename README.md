@@ -115,37 +115,37 @@
     <tr>
       <td style="padding: 10px; border: 1px solid #444;">🏠 Pranav Interiors</td>
       <td style="padding: 10px; border: 1px solid #444;">A dynamic Django-based website for interior design services.</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">🔗 Live Link</a></td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://pranav-interiors-and-decorators.onrender.com/" style="color: #00e676;">🔗 Live Link</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #444;">🚀 Success Classes Of Engineering</td>
       <td style="padding: 10px; border: 1px solid #444;">A Flask-based website for Engineering Classes.</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">🔗 Live Link</a></td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://success-classes-of-engineering.vercel.app/" style="color: #00e676;">🔗 Live Link</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #444;">🌍 Tourmate</td>
       <td style="padding: 10px; border: 1px solid #444;">Java Swing-based Desktop application.</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">🖥️ Check Here</a></td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://www.linkedin.com/posts/nikhil-sutar-b5471b2b7_tourmate-travelapp-javadevelopment-activity-7183136207487270922-nO6G?utm_source=share&utm_medium=member_desktop" style="color: #00e676;">🖥️ Check Here</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #444;">🌦️ Sutar.ka.Weather.App</td>
       <td style="padding: 10px; border: 1px solid #444;">Weather fetching Web Application using API.</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">🔗 Live Link</a></td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://carpentrycoder.github.io/Sutar.ka.Weather.app/" style="color: #00e676;">🔗 Live Link</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #444;">🎬 Sutarflix</td>
       <td style="padding: 10px; border: 1px solid #444;">Flask-based Website for Streaming Services.</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">🎞️ Check Here</a></td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://www.linkedin.com/posts/nikhil-sutar-b5471b2b7_flaskdevelopment-webdevelopment-moviestreaming-activity-7180954773746044928-raXZ?utm_source=share&utm_medium=member_desktop" style="color: #00e676;">🎞️ Check Here</a></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #444;">🛒 Sutar_ki_dukaan</td>
       <td style="padding: 10px; border: 1px solid #444;">E-commerce platform built with MERN stack.</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">🛍️ Check Here</a></td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://www.linkedin.com/posts/nikhil-sutar-b5471b2b7_webdevelopment-activity-7188483974233473024-9AaZ?utm_source=share&utm_medium=member_desktop" style="color: #00e676;">🛍️ Check Here</a></td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #444;">📊 E-commerce Sales Prediction</td>
-      <td style="padding: 10px; border: 1px solid #444;">Machine Learning-based Sales Prediction System (Ongoing).</td>
-      <td style="padding: 10px; border: 1px solid #444;"><a href="#" style="color: #00e676;">📈 Check Here</a></td>
+      <td style="padding: 10px; border: 1px solid #444;">📊 Sale Gyan</td>
+      <td style="padding: 10px; border: 1px solid #444;">Machine Learning-based Sales Prediction System.</td>
+      <td style="padding: 10px; border: 1px solid #444;"><a href="https://www.linkedin.com/posts/nikhil-sutar-b5471b2b7_ai-machinelearning-ecommerce-activity-7322655519637143552-9SKF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwaZbABiSYaPWifK9jMSKuzQexp2dZki44" style="color: #00e676;">📈 Check Here</a></td>
     </tr>
   </tbody>
 </table>
