@@ -9,7 +9,7 @@
     <img src="https://i.postimg.cc/wMBpnC5H/Whats-App-Image-2025-03-07-at-12-05-41-AM.jpg" 
          alt="Coding 1" 
          style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);" 
-         width="850">
+         width="650">
   </div>
 
 
