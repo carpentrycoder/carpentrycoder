@@ -193,18 +193,7 @@
   </a>
 </p>
 
-<!-- Hover effect to scale icons up -->
-<script>
-  const icons = document.querySelectorAll('img');
-  icons.forEach(icon => {
-    icon.addEventListener('mouseover', () => {
-      icon.style.transform = 'scale(1.2)';
-    });
-    icon.addEventListener('mouseout', () => {
-      icon.style.transform = 'scale(1)';
-    });
-  });
-</script>
+
 
 <hr>
 
@@ -218,17 +207,7 @@
        style="width: 45%; border: 2px solid #00e676; border-radius: 10px; padding: 10px; box-shadow: 0px 4px 8px rgba(0, 230, 118, 0.5); transition: transform 0.3s;">
 </p>
 
-<script>
-  const images = document.querySelectorAll('img');
-  images.forEach(image => {
-    image.addEventListener('mouseover', () => {
-      image.style.transform = 'scale(1.1)';
-    });
-    image.addEventListener('mouseout', () => {
-      image.style.transform = 'scale(1)';
-    });
-  });
-</script>
+
 
 ---
 
