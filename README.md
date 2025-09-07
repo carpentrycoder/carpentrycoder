@@ -191,7 +191,11 @@
   <a href="https://www.djangoproject.com/" target="_blank" style="margin: 15px; transform: scale(1); transition: transform 0.3s;">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60" style="transition: transform 0.3s;"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" style="margin: 15px; transform: scale(1); transition: transform 0.3s;">
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="Fast-API" width="60" height="60" style="transition: transform 0.3s;"/>
+  </a>
 </p>
+
 
 
 
