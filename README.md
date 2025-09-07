@@ -1,7 +1,7 @@
 <div style="max-width: 1000px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; color: #ffffff; background-color: #121212; padding: 30px; border-radius: 15px; box-shadow: 0 0 25px rgba(0, 255, 170, 0.2);">
 
   <h1 align="center" style="color:rgb(245, 253, 250); font-size: 2.5em;">Hi 🙏, I'm Nikhil Sutar</h1>
-  <h2 align="center" style="color:rgb(255, 255, 255);">Pre-Final Year Artificial Intelligence and Data Science Engineering Student</h2>
+  <h2 align="center" style="color:rgb(255, 255, 255);"> Final Year Artificial Intelligence and Data Science Engineering Student</h2>
 
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
   
