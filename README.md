@@ -24,7 +24,7 @@
       <li style="margin-bottom: 10px;">📘 <strong style="color: #00bcd4;">Diving Deep</strong> into <strong>Python, Java, HTML, CSS, Django, REST</strong></li>
       <li style="margin-bottom: 10px;">💡 <em>Code with purpose:</em> Solving real-world problems</li>
       <li style="margin-bottom: 10px;">💬 <strong style="color: #ff4081;">Let's talk</strong> about <strong>Java, Python, or your next big idea</strong></li>
-      <li style="margin-bottom: 10px;">📬 <strong>Email me:</strong> <a href="mailto:nikhilsutar621@gmail.com" style="color: #80d8ff; text-decoration: none;">nikhilningdeker723@gmail.com</a></li>
+      <li style="margin-bottom: 10px;">📬 <strong>Email me:</strong> <a href="mailto:nikhilsutar621@gmail.com" style="color: #80d8ff; text-decoration: none;">nikhilsutar621@gmail.com</a></li>
       <li style="margin-bottom: 10px;">🎭 <em>Fun fact:</em> From meme pages ➡️ Python scripts — now I turn prompts into projects and coffee into code ☕💻</li>
     </ul>
   </section>
